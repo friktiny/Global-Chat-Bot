@@ -24,21 +24,21 @@ If issues in code make a issue in [make a issue](https://github.com/comptecchara
   
 # Want to improve code
 
-Want to develop this code and make it more well make a pull at [make a pull request](https://github.com/compteccharan/Global-Chat-Bot/pulls)
+Want to develop this code and make it more well make a pull at [make a pull request](https://github.com/friktiny/Global-Chat-Bot/pulls)
 
 
 ## 💨 Run the projects
 Glitch ⤵
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github.com/compteccharan/Global-Chat-Bot)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github.com/friktiny/Global-Chat-Bot)
 
 Repl.it ⤵
 
-[![Run on Repl.it](https://repl.it/badge/github/compteccharan/discord-hosting-bot)](https://github.com/compteccharan/Global-Chat-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/friktiny/discord-hosting-bot)](https://github.com/friktiny/Global-Chat-Bot)
 
 Heroku ⤵
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/compteccharan/Global-Chat-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/friktiny/Global-Chat-Bot)
 
 
 # Setup

@@ -34,7 +34,7 @@ Glitch ⤵
 
 Repl.it ⤵
 
-[![Run on Repl.it](https://repl.it/badge/github/friktiny/discord-hosting-bot)](https://github.com/friktiny/Global-Chat-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/friktiny/discord-hosting-bot)](https://replit.com/github/friktiny/Global-Chat-Bot)
 
 Heroku ⤵
 
